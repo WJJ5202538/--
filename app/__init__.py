@@ -1,0 +1,1 @@
+"""DocMark web application."""

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="4" y="4" width="56" height="56" rx="9" fill="#b4372a"/>
+  <rect x="9" y="9" width="46" height="46" rx="5" fill="none" stroke="#f8f0e2" stroke-opacity=".45"/>
+  <text x="32" y="45" text-anchor="middle" font-family="SimSun, serif" font-size="36" font-weight="700" fill="#fff9ed">文</text>
+</svg>
